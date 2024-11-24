@@ -1,0 +1,58 @@
+.bd {
+  min-height:100vh;
+  margin: 0 auto;
+  text-align: center;
+  background: linear-gradient(to bottom, #e6af80, #f7e5d7, white);
+}
+
+.box-inner {
+    background-color:#800;    
+    text-align: left;
+    height:23px;
+    border: 1px solid #000000;
+}
+.boxbar {
+    position: relative;
+    margin-top:-1.15rem;
+    margin-left: 0.4rem;
+    font-family:'helvetica';
+    border-top-width: black; 
+}
+.Rules_and_shit {
+    height:130px;
+    background-color:white;
+    border-bottom-width: 1px solid #000000;
+} 
+.closebutton {
+    color:white;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    margin-right: .25em;
+    width: 15px;
+    height: 15px;
+    font-family:'helvetica';
+    margin-top: -5px;
+    margin-right: -5px;
+    cursor: pointer;
+    font-weight: 700;
+}
+.explanation {
+    margin-top: 0rem;
+    font-weight: 100;
+    margin-left: 0.4rem;
+    font-family:'helvetica';
+    text-align:left; 
+    justify-content:left;
+    color:black;
+}
+.FAQ {
+    margin-top: -0.06rem;
+    font-weight: 100;
+    margin-left: 0.4rem;
+    font-family:'helvetica';
+    text-align:left; 
+    justify-content:left;
+    color:black;
+    border-bottom: 1px solid black;
+}
