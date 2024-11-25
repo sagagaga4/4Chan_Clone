@@ -1,4 +1,4 @@
- .board {
+.Pop {
     border-top: 1px solid red;
     text-align:left;
 }
@@ -20,8 +20,9 @@
     float:left;
     text-align:left;
     width:9em;
+    height:380px;
     background-color:white;
-    margin-top:-23px;
+    border-bottom:1px solid red;
 }
 
 .column_1 h5 {
