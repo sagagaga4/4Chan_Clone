@@ -431,8 +431,6 @@ const Board: React.FC = () => {
         </li>
         </ul>
         </div>
-
-
         </div>
     );
 };
