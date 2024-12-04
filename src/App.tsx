@@ -22,7 +22,6 @@ function App() {
               <div id="wot-cnt"></div>
             </div>
           </div>
-          
           <div className="Rules_and_shit">
    
             <h5 className = "explanation">
@@ -42,7 +41,7 @@ function App() {
               <a href="/faq" title="Frequently Asked Questions">FAQ</a>
               {' '}if you wish to learn more about how to use the site.
             </h5>
-                   </div>
+          </div>
         </div>
       </div>
         <Board></Board>
